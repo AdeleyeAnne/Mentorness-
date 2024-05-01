@@ -1,12 +1,10 @@
 ## Mentorness internship 
-
 This internship project focuses on conducting a comprehensive analysis of airplane crashes and fatalities 
 spanning from 1980 to 2023. 
 The dataset contains crucial information such as crash dates, locations, operators, flight details, aircraft types, and fatality statistics. The goal is to leverage Power BI for 
 interactive visualizations and in-depth insights to understand patterns, contributing factors, and trends in aviation incidents.
 
-##Dataset Description:
-
+## Dataset Description:
 1. Date: Date of the airplane crash.
 2. Time: Time of the airplane crash.
 3. Location: Location where the airplane crash occurred.
@@ -43,4 +41,12 @@ interactive visualizations and in-depth insights to understand patterns, contrib
  - Investigate factors contributing to fatalities.
 6. Route Analysis:
  - Analyse incident patterns on specific flight routes.
-- Identify routes with a higher likelihood of incidents. 
+- Identify routes with a higher likelihood of incidents.
+- 
+## Recommendation
+• The Aviation Authority should ensure adequate safety measures before, during and after each round of trips.
+• Frequent Replacement of worn out parts, engines, appliances and all depreciated items should be replaced as soon as possible.
+• Proper enlightenment and understanding of safety indicators to pilot, crews and aviation staff.
+• Investigation of historical data on causes and effects of past events to prevent future occurrence.
+• Expert should carry out proper check and investigation on both newly purchased and old airplanes before and after use. 
+
